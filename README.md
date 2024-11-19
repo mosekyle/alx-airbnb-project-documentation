@@ -136,7 +136,7 @@ Sample user stories derived from the use case diagram:
 👤 **Moses Gitau**
 
 - GitHub: [Moses Gitau](https://github.com/mosekyle)  
-- LinkedIn: [Moses Gitau](https://www.linkedin.com/in/moses-gitau)  
+- LinkedIn: [Moses Gitau](https://www.linkedin.com/in/moses-gitau-kiarie) 
 
 Feel free to reach out for questions or collaboration!
 
