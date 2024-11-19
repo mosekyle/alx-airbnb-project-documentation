@@ -1,4 +1,4 @@
-# Documenting Project Features and FunctionalitiesQ
+# Documenting Project Features and Functionalities
 
 This document outlines the features and functionalities of the Airbnb Clone backend. The goal is to provide a comprehensive overview of the key components required to support the system.
 
