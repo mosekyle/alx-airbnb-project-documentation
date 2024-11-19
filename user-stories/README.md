@@ -43,7 +43,7 @@ To translate interactions from the **Use Case Diagram** into meaningful user sto
 ## Author
 
 👤 **Moses Gitau**  
-GitHub: [MosesGitau](https://github.com/mosekyle)  
+GitHub: [Moses Gitau](https://github.com/mosekyle)  
 LinkedIn: [Moses Gitau](https://www.linkedin.com/in/moses-gitau-kiarie)
 
 ---
